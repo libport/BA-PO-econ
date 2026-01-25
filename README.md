@@ -2,7 +2,7 @@
 
 Course notes for the [IBM Business Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-business-analyst).
 # Course Description
-IBM’s Business Analyst Professional Certificate is a 3 month, self-paced programme designed to build job-ready business analysis capability, aligned with the BABOK Guide and positioned to support preparation for the ECBA credential.
+The IBM Business Analyst Professional Certificate is a 3 month, self-paced programme designed to build job-ready business analysis capability, aligned with the BABOK Guide and positioned to support preparation for the ECBA credential.
 ### Course topics
 - Process modelling, requirements gathering, and stakeholder engagement
 - Project management fundamentals, including scoping and risk management

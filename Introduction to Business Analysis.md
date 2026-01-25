@@ -1,4 +1,4 @@
-> [!NOTE] Abstract
+> [!NOTE]
 > An overview of business analysis that explains the role of the business analyst, outlines a practical end-to-end process from needs and scope through elicitation, documentation, validation, prioritisation, traceability and change control, and applies these concepts through hands-on labs and scenarios covering process improvement, requirements tooling, gap analysis, and digital transformation.
 # Basics of Business Analysis
 ## Understand the purpose of business analysis

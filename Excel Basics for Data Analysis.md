@@ -1,7 +1,7 @@
 >[!TIP]
 >These notes do not reflect full course content and are abridged to omit prior author knowledge
 
-> [!NOTE] Abstract
+> [!NOTE]
 > A practical introduction to spreadsheet-based data analysis, covering efficient navigation and selection, worksheet setup and formatting, error-aware formulas and references, text and date cleaning, importing delimited files, and core analysis techniques such as filtering, sorting, conditional logic, multi-criteria aggregation, lookups, and PivotTables with slicers and timelines.
 # Introduction to Data Analysis Using Spreadsheets
 ## Navigating and selecting efficiently

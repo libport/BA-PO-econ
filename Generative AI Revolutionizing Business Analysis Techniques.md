@@ -1,4 +1,4 @@
->[!NOTE] Abstract
+>[!NOTE]
 >These notes explain how generative AI can support business analysis by drafting and analysing requirements and process models with structured prompting and human quality controls, then extends into practical stakeholder communication templates tailored to executive, technical, end user, and cross-functional audiences.
 # Requirements Elicitation and Documentation with Generative AI
 Generative AI can accelerate business analysis by converting unstructured inputs into structured artefacts, surfacing gaps early, and suggesting options for exploration. Strong results come from combining AI speed with disciplined review, clear documentation standards, and transparent stakeholder communication.

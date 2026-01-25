@@ -1,4 +1,4 @@
-> [!NOTE] Abstract
+> [!NOTE]
 > These notes introduce core business analysis concepts and the BABOK framework, then provides practical guidance on modelling, process mapping, and requirements elicitation and management to support effective solution delivery.
 # Business Analysis Overview and BABOK
 Building reliable solutions takes more than collecting a few requests and handing them to a delivery team. A disciplined business analysis approach provides structure, shared language, and repeatable checkpoints that keep work aligned to business goals. The BABOK framework groups that work into knowledge areas supported by techniques, competencies, and perspectives, plus the Business Analysis Core Concept Model (BACCM) that keeps attention on change, need, stakeholders, value, solutions, and context.
