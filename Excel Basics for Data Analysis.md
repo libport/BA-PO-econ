@@ -42,7 +42,7 @@ Move a block of cells by dragging the selection border once the move pointer app
 When copying between worksheets, pasted data often adopts the destination column widths. If the original layout must be preserved, use the paste option Keep Source Column Widths.
 
 AutoFill reduces repetitive entry when data follows a pattern. Months and weekdays fill from abbreviations, such as Jan or Mon. For altered patterns, define the rule with enough starting values, such as Mon followed by Wed to indicate every other day. For numbers, a single starting value copies down, while two starting values establish an increment.
-#### Format deliberately and fix import mistakes at the source
+### Format deliberately and fix import mistakes at the source
 Separate formatting into two decisions:
 - Cell formatting, which controls appearance such as styles, borders, and emphasis
 - Number formatting, which controls how values are interpreted and displayed, such as Text, decimals, dates, or currency
@@ -50,7 +50,7 @@ Separate formatting into two decisions:
 Imported CSV data can be misclassified. A model number like 9-5 or 9-3 may be interpreted as a date. Correct this by setting the affected cells to Text first, then re-entering the model values so Excel stores them correctly.
 
 For monetary figures, open More Number Formats, choose Currency, then select the required symbol and decimal places. Check headings like “Price in thousands” so the chosen format matches reporting intent.
-#### Build formulas that copy cleanly and handle errors
+### Build formulas that copy cleanly and handle errors
 A formula starts with `=` and combines functions, references, operators, and constants. Use `SUM` with a range written as `E2:E13` rather than listing each cell. Copy formulas using the fill handle, or double-click the fill handle to fill down a long column.
 
 Understand references before copying across a table:
@@ -58,7 +58,7 @@ Understand references before copying across a table:
 - Absolute references stay fixed using `$`, such as `$A$1`
 - Mixed references lock only a row or column, such as `A$1` or `$A3`
 
-If `##########` appears, widen the column or check for negative date or time results. If `##NAME?` appears, check for misspelt function names or invalid operators, then use the error indicator to review help or calculation steps.
+If `#####` appears, widen the column or check for negative date or time results. If `##NAME?` appears, check for misspelt function names or invalid operators, then use the error indicator to review help or calculation steps.
 ## Cleaning and Wrangling Data Using Spreadsheet
 ### Importing text data into Excel
 Start with the source file. Plain text files often use either comma-separated values (CSV) or tab-separated values (TSV), where a single character separates each field. Confirm the first row contains headings and that each record has the same number of fields as the headings, otherwise the import will misalign columns.
