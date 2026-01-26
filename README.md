@@ -2,7 +2,7 @@
 
 Course notes for the [IBM Business Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-business-analyst).
 # Course Description
-The IBM Business Analyst Professional Certificate is a 3 month, self-paced programme designed to build job-ready business analysis capability, aligned with the BABOK Guide and positioned to support preparation for the ECBA credential.
+The IBM Business Analyst Professional Certificate is a 3 month, self-paced programme designed to build job-ready business analysis capability, aligned with the BABOK Guide and supports preparation for the ECBA credential.
 ### Course topics
 - Process modelling, requirements gathering, and stakeholder engagement
 - Project management fundamentals, including scoping and risk management
@@ -17,11 +17,11 @@ Notes are supplemented with information from third-party sources, including:
 - [Agile and Business Analysis](https://www.oreilly.com/library/view/agile-and-business/9781780176192/), 1st Edition, by Lynda Girvan, Debra Paul.
 - [Business Analysis Techniques](https://www.oreilly.com/library/view/business-analysis-techniques/9781780175713/), 3rd Edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, Paul Turner.
 # Module Notes
-- [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md)
-- [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md)
-- [Data Visualization and Dashboards with Excel and Cognos](Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.md)
-- [Business Analysis Process Modeling & Requirements Gathering](Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.md)
-- [Generative AI Revolutionizing Business Analysis Techniques](Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.md)
+- [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md) *46min*
+- [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md) *21min*
+- [Data Visualization and Dashboards with Excel and Cognos](Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.md) *15min*
+- [Business Analysis Process Modeling & Requirements Gathering](Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.md) *48min*
+- [Generative AI Revolutionizing Business Analysis Techniques](Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.md) *11min*
 
 > [!NOTE]
 > Assessment modules with no new content do not have corresponding notes
