@@ -17,11 +17,11 @@ Notes are supplemented with information from third-party sources, including:
 - [Agile and Business Analysis](https://www.oreilly.com/library/view/agile-and-business/9781780176192/), 1st Edition, by Lynda Girvan, Debra Paul.
 - [Business Analysis Techniques](https://www.oreilly.com/library/view/business-analysis-techniques/9781780175713/), 3rd Edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, Paul Turner.
 # Module Notes
-- [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md) *46min*
-- [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md) *21min*
-- [Data Visualization and Dashboards with Excel and Cognos](Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.md) *15min*
-- [Business Analysis Process Modeling & Requirements Gathering](Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.md) *48min*
-- [Generative AI Revolutionizing Business Analysis Techniques](Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.md) *11min*
+- [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md) ([PDF](pdf/Introduction%20to%20Business%20Analysis.pdf)) *46min*
+- [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md) ([PDF](pdf/Excel%20Basics%20for%20Data%20Analysis.pdf)) *21min*
+- [Data Visualization and Dashboards with Excel and Cognos](Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.md) ([PDF](pdf/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.pdf)) *15min*
+- [Business Analysis Process Modeling & Requirements Gathering](Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.md) ([PDF](pdf/Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.pdf)) *48min*
+- [Generative AI Revolutionizing Business Analysis Techniques](Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.md) ([PDF](pdf/Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.pdf)) *11min*
 
 > [!NOTE]
 > Assessment modules with no new content do not have corresponding notes
