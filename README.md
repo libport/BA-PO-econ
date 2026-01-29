@@ -16,7 +16,7 @@ Notes are supplemented with information from third-party sources, including:
 - [Business Analysis](https://www.oreilly.com/library/view/business-analysis-4th/9781780175126/), 4th Edition, by Debra Paul, James Cadle, Donald Yeates.
 - [Agile and Business Analysis](https://www.oreilly.com/library/view/agile-and-business/9781780176192/), 1st Edition, by Lynda Girvan, Debra Paul.
 - [Business Analysis Techniques](https://www.oreilly.com/library/view/business-analysis-techniques/9781780175713/), 3rd Edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, Paul Turner.
-# Module Notes
+## Module Notes
 - [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md) ([PDF](pdf/Introduction%20to%20Business%20Analysis.pdf)) *46min*
 - [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md) ([PDF](pdf/Excel%20Basics%20for%20Data%20Analysis.pdf)) *21min*
 - [Data Visualization and Dashboards with Excel and Cognos](Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.md) ([PDF](pdf/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.pdf)) *15min*
@@ -25,3 +25,5 @@ Notes are supplemented with information from third-party sources, including:
 
 > [!NOTE]
 > Assessment modules with no new content do not have corresponding notes
+
+[Download repository as a `.zip` archive](https://github.com/pro-cert-notes/IBM-BA/archive/refs/heads/main.zip)
