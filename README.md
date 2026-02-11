@@ -1,29 +1,12 @@
-# IBM Business Analyst Professional Certificate Notes
+# Business Analysis, Product Ownership and Managerial Economics Programme
 
-Course notes for the [IBM Business Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate).
-# Course Description
-The IBM Business Analyst Professional Certificate is a 3 month, self-paced programme designed to build job-ready business analysis capability, aligned with the BABOK Guide and supports preparation for the ECBA credential.
-### Course topics
-- Process modelling, requirements gathering, and stakeholder engagement
-- Project management fundamentals, including scoping and risk management
-- Systems analysis concepts and modelling techniques
-- Data analysis and data visualisation using spreadsheets and analytics tools, including Excel and IBM Cognos Analytics
-- Practical coverage of digital transformation topics, with attention to responsible AI themes
+Course notes and project files related to business analysis, project management and managerial economics from IBM, IIBA, and University of Illinois Urbana-Champaign.
 
-Applied learning is emphasised through hands-on labs and projects. Examples include documenting requirements, visualising and improving a business process, building a business analysis matrix, and evaluating digital transformation scenarios.
-
-Notes are supplemented with information from third-party sources, including:
-- [Business Analysis](https://www.oreilly.com/library/view/business-analysis-4th/9781780175126/), 4th Edition, by Debra Paul, James Cadle, Donald Yeates.
-- [Agile and Business Analysis](https://www.oreilly.com/library/view/agile-and-business/9781780176192/), 1st Edition, by Lynda Girvan, Debra Paul.
-- [Business Analysis Techniques](https://www.oreilly.com/library/view/business-analysis-techniques/9781780175713/), 3rd Edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, Paul Turner.
-## Module Notes
-- [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md) ([PDF](pdf/Introduction%20to%20Business%20Analysis.pdf)) *46min*
-- [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md) ([PDF](pdf/Excel%20Basics%20for%20Data%20Analysis.pdf)) *21min*
-- [Data Visualization and Dashboards with Excel and Cognos](Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.md) ([PDF](pdf/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos.pdf)) *15min*
-- [Business Analysis Process Modeling & Requirements Gathering](Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.md) ([PDF](pdf/Business%20Analysis%20Process%20Modeling%20&%20Requirements%20Gathering.pdf)) *48min*
-- [Generative AI Revolutionizing Business Analysis Techniques](Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.md) ([PDF](pdf/Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.pdf)) *11min*
-
-> [!NOTE]
-> Assessment modules with no new content do not have corresponding notes
-
-[Download repository as a `.zip` archive](https://github.com/pro-cert-notes/IBM-BA/archive/refs/heads/main.zip)
+Programme designed for mastery in product optimization,  project delivery, and intra-firm decision making.
+## Business Analysis
+- [IBM Business Analyst Professional Certificate](/IBM-BA/README.md) ([course link](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
+- Codecademy Certified Business Analysis Professional (CBAP) (Path) ([course link](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
+## Product Ownership
+- IBM Product Owner Professional Certificate ([course link](https://www.coursera.org/professional-certificates/ibm-product-owner))
+## Managerial Economics
+-  University of Illinois Urbana-Champaign Managerial Economics and Business Analysis Specialization ([course link](https://www.coursera.org/specializations/managerial-economics-business-analysis))
