@@ -10,3 +10,5 @@ Programme designed for mastery in product optimization,  project delivery, and i
 - IBM Product Owner Professional Certificate ([course link](https://www.coursera.org/professional-certificates/ibm-product-owner))
 ## Managerial Economics
 -  University of Illinois Urbana-Champaign Managerial Economics and Business Analysis Specialization ([course link](https://www.coursera.org/specializations/managerial-economics-business-analysis))
+# Finance
+- MITx MicroMasters Program in  Finance ([course link](https://micromasters.mit.edu/fin/))
