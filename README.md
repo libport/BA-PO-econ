@@ -12,3 +12,5 @@ Programme designed for mastery in product optimization,  project delivery, and i
 -  University of Illinois Urbana-Champaign Managerial Economics and Business Analysis Specialization ([course link](https://www.coursera.org/specializations/managerial-economics-business-analysis))
 # Finance
 - MITx MicroMasters Program in  Finance ([course link](https://micromasters.mit.edu/fin/))
+## Accounting
+- University of Illinois Urbana-Champaign # Financial Reporting Specialization ([course link](https://www.coursera.org/specializations/financial-reporting))
